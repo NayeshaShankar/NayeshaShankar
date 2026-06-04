@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Nayesha Shankar 👋
 
-<!--
-**NayeshaShankar/NayeshaShankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CS @ Mody University (2024–2028) | CGPA: 8.33
+🤖 AI Intern @IBM | IEEE PromptX Rank 1 (2026)
+🔍 Interested in: Prompt Engineering · LLMs · GenAI · DSA · SDE
 
-Here are some ideas to get you started:
+## 🚀 What I'm building
+- AI-powered tools using Python and LLM APIs
+- Practicing DSA daily on LeetCode (C++)
+- Exploring LangChain and RAG pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Highlights
+- 🥇 Rank 1 – IEEE PromptX: The Precision Prompting Challenge (2026)
+- 🤖 Built an AI chatbot for code analysis @ IBM (Jan–Mar 2026)
+- 🏅 3rd Position – IEEE DSSYWLC'25 Campus Ambassador
+- ☁️ Microsoft Azure Fundamentals Certified
+
+## 🛠️ Tech Stack
+**Languages:** Python · C++ · Java · C
+**AI/ML:** Prompt Engineering · NLP · LLMs · IBM Watson
+**Tools:** GitHub · VS Code · Azure · Canva
+
+## 📫 Connect with me
+[LinkedIn](https://linkedin.com/in/nayeshashankar) · n14shankar@gmail.com
